@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../javascipt notes app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todolist"
+	}
+}
